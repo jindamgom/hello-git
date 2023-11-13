@@ -13,6 +13,7 @@ public class Main
 		System.out.println("HELLO WORLD"); //ctrl+shift+x
 		System.out.println("HELLO GIT");
 		
+		System.out.println("동물기능 시작");
 		//sub 클래스 제거
 		//dog 클래스 bark 호출
 		new Dog().bark();
