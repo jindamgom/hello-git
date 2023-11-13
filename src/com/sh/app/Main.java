@@ -35,6 +35,6 @@ public class Main
 	public void test()
 	{
 		System.out.println("test");
-
+		System.out.println("test2...github..");
 	}
 }
