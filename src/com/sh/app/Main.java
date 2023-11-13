@@ -1,5 +1,6 @@
 package com.sh.app;
 
+import com.sh.app.animal.Bird;
 import com.sh.app.animal.Cat;
 import com.sh.app.animal.Dog;
 
@@ -16,5 +17,10 @@ public class Main
 		
 		//cat 클래스 jump 호출
 		new Cat().jump();
+		
+		//branch - animal bird 클래스 fly 호출
+		new Bird().fly();
+		
+		
 	}
 }
