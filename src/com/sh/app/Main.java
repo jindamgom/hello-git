@@ -4,6 +4,7 @@ import com.sh.app.animal.Bird;
 import com.sh.app.animal.Cat;
 import com.sh.app.animal.Dog;
 import com.sh.app.animal.Fish;
+import com.sh.app.animal.Mouse;
 
 public class Main 
 {
@@ -25,6 +26,8 @@ public class Main
 		//branch -
 		new Fish().swim();
 		
+		//branch - animal
+		new Mouse().hiding();
 	}
 	
 	//branch - animal - mouse 이후로 
