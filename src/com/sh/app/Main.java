@@ -8,8 +8,8 @@ public class Main
 {
 	public static void main(String[] args)
 	{
-		System.out.println("hello world");
-		System.out.println("hello git");
+		System.out.println("HELLO WORLD"); //ctrl+shift+x
+		System.out.println("HELLO GIT");
 		
 		//sub 클래스 제거
 		//dog 클래스 bark 호출
