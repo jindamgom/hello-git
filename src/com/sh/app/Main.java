@@ -29,6 +29,8 @@ public class Main
 		//branch - animal
 		new Mouse().hiding();
 	}
+	//github에서 직접 수정
+	public void abc(){}
 	
 	//branch - animal - mouse 이후로 
 	//다시 master로 돌아와 test메소드 추가
