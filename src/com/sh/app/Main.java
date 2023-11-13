@@ -7,6 +7,6 @@ public class Main
 		System.out.println("hello world");
 		System.out.println("hello git");
 		
-		new Sub().test();
+		//sub 클래스 제거
 	}
 }
