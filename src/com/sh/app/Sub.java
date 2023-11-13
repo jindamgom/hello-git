@@ -6,6 +6,7 @@ public class Sub {
 	{
 		// TODO Auto-generated method stub
 		System.out.println("춥다");
+		System.out.println("ㅠㅠ");
 	}
 
 }
