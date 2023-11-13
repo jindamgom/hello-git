@@ -1,5 +1,6 @@
 package com.sh.app;
 
+import com.sh.app.animal.Cat;
 import com.sh.app.animal.Dog;
 
 public class Main 
@@ -12,5 +13,8 @@ public class Main
 		//sub 클래스 제거
 		//dog 클래스 bark 호출
 		new Dog().bark();
+		
+		//cat 클래스 jump 호출
+		new Cat().jump();
 	}
 }
