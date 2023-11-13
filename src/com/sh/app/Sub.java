@@ -8,5 +8,8 @@ public class Sub {
 		System.out.println("춥다");
 		System.out.println("ㅠㅠ");
 	}
-
+	public void test()
+	{
+		System.out.println("발 시려움");
+	}
 }
