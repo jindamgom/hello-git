@@ -3,6 +3,7 @@ package com.sh.app;
 import com.sh.app.animal.Bird;
 import com.sh.app.animal.Cat;
 import com.sh.app.animal.Dog;
+import com.sh.app.animal.Fish;
 
 public class Main 
 {
@@ -21,6 +22,8 @@ public class Main
 		//branch - animal bird 클래스 fly 호출
 		new Bird().fly();
 		
+		//branch -
+		new Fish().swim();
 		
 	}
 }
