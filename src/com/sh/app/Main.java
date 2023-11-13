@@ -26,4 +26,11 @@ public class Main
 		new Fish().swim();
 		
 	}
+	
+	//branch - animal - mouse 이후로 
+	//다시 master로 돌아와 test메소드 추가
+	public void test()
+	{
+		System.out.println("test");
+	}
 }
